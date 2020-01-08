@@ -1,0 +1,17 @@
+{
+  "name": "xgdda",
+  "version": "1.0.0",
+  "description": "A web application to allow members and partners of Xperi from around the globe to share descriptions of the datasets collected which are available to other branches/partners.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Moustafa Mohamed",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "handlebars": "^4.5.3",
+    "nodemon": "^2.0.2"
+  }
+}
